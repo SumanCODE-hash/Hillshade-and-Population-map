@@ -34,7 +34,8 @@ Data is visualized with ggplot2, layered using ggnewscale, styled with a viridis
 The final map is saved as bd_pop_hillshade.png.
 
 📦 Output Preview
-bd_pop_hillshade.png
+![Bangladesh Population and Hillshade Map](bd_pop_hillshade.png)
+
 > Caption: Bangladesh • Population (2020), with hillshade overlay. > Data: WorldPop & SRTM (via elevatr) > Design: SumonCODE-hash
 
 🙌 Acknowledgments
