@@ -13,8 +13,6 @@ README.md – You're reading it!
 🚀 Getting Started
 1. Clone the Repository
 bash
-git clone https://github.com/YOUR_USERNAME/Hillshade-with-population-map-using-R.git
-cd Hillshade-with-population-map-using-R
 2. Run Mapping.R in R or RStudio
 Make sure you have the following packages installed:
 
