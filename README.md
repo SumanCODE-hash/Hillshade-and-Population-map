@@ -39,4 +39,7 @@ The final map is saved as bd_pop_hillshade.png.
 🙌 Acknowledgments
 Data sources: WorldPop, SRTM via elevatr
 
+🎯 Applications
+
+This map aids in urban planning, disaster risk assessment, and conservation by visualizing how population density overlaps with terrain. It's also valuable for educational use, research, and public communication, offering a compelling spatial narrative for decision-makers and learners alike.
 Inspired by cartographic workflows and R spatial analysis tutorials
