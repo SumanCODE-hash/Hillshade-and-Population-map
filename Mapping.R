@@ -23,7 +23,8 @@ bd_vect <- terra::vect(bd_sf)
 
 
 # Load directly the POPULATION 100M bd link to load as geodata
-bd_pop_100m <-  terra::rast("https://data.worldpop.org/GIS/Population/Global_2000_2020_Constrained/2020/BSGM/BGD/bgd_ppp_2020_constrained.tif")
+bd_pop_100m <-  terra::rast("https://data.worldpop.org/GIS/Population/Global_2000_2020_Constrained/2020/BSGM/BGD/bgd_ppp_2020_constrained.tif")   # Download the data manually
+                                                                                                                                                   # or padte the link
 
 # Plot the population data
 terra::plot(bd_pop_100m)
