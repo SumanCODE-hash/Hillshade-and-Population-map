@@ -15,13 +15,13 @@ README.md – You're reading it!
 bash
 2. Run Mapping.R in R or RStudio
 Make sure you have the following packages installed:
-
+--
 r
 install.packages(c("tidyverse", "raster", "sf", "ggplot2", "RColorBrewer",
                    "ggspatial", "terra", "geodata", "ggnewscale",
                    "elevatr", "scales"))
 Then simply run the Mapping.R script to download the data, process it, and generate the map.
-
+---
 🗺️ Map Description
 Population data is sourced from WorldPop's 100m constrained raster grid for Bangladesh (2020).
 
@@ -43,3 +43,4 @@ Data sources: WorldPop, SRTM via elevatr
 
 This map aids in urban planning, disaster risk assessment, and conservation by visualizing how population density overlaps with terrain. It's also valuable for educational use, research, and public communication, offering a compelling spatial narrative for decision-makers and learners alike.
 Inspired by cartographic workflows and R spatial analysis tutorials
+
